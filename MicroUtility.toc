@@ -2,5 +2,9 @@
 ## Title: MicroUtility
 ## Version: 1.0.0
 ## Author: Micro
+## Category: Development Tools
 
+MicroUtility_Time.lua
+MicroUtility_Quest.lua
+MicroUtility_Gossip.lua
 MicroUtility.lua
